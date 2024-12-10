@@ -1,5 +1,5 @@
 # Analysis of Medicaid Expansion Policy Adoption on the Cost of Healthcare
-This repository contains all materials and outlines all requirements to complete a case study on states' adoption of the Medicaid expansion policy and its impact on the personal healthcare expenses. 
+This repository contains all materials and outlines all requirements to complete a case study on states' adoption of the Medicaid expansion policy and its impact on the personal healthcare expenses. This case study was created for the Fall 2024 offering of DS 4002.
 
 ![alt text](https://media.istockphoto.com/id/1255191189/vector/vector-of-senior-and-young-people-covered-by-health-insurance-being-assisted-by-medical-staff.jpg?s=612x612&w=0&k=20&c=XvBx0C4e6GTCoFjIAKwhgkgV_5CUvcWIcN0IUIpaKjg=)
 
@@ -15,6 +15,6 @@ There are multiple data files, all of which pulled from the Centers for Medicare
 I would recommend writing all source code in a Jupyter Notebook, ideally using Python. This can easily be run on a virtual machine using [Google Colab](https://colab.research.google.com/). There are a couple important things to consider:
 * The state expenses file sums up all personal healthcare expenses and is given in _millions of dollars_, so the state population data can be used to estimate the household or individual healthcare expenses.
 * Expenses may vary state to state based on different costs of living, so the average salary per state is provided It may be useful to utilize this data to standardize the healthcare costs.
-* Any context or technical materials that may be useful are in the [REFERENCES](https://github.com/kaylangu/DS4002-CS3/tree/main/REFERENCES) folder.  
+* Any context or technical materials that may be useful are in the [REFERENCES](https://github.com/kaylangu/DS4002-CS3/tree/main/REFERENCES) folder.
 
 Best of luck!
